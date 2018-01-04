@@ -1,6 +1,6 @@
 .catalog:
   name: "RethinkDB"
-  version: "2.3.5"
+  version: "latest"
   description: "(Experimental) NoSQL-Database"
   uuid: rethinkdb-0
   questions:

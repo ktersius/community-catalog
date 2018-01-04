@@ -1,5 +1,5 @@
-name: RethinkDB Cluster
+name: RethinkDB Cluster TK
 description: |
   RethinkDB is the open-source, scalable database that makes building realtime apps dramatically easier.
-version: 2.3.5
+version: latest
 category: Databases
